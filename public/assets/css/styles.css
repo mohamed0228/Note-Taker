@@ -12,7 +12,7 @@ body {
 .icons i {
   margin-left: 15px;
   margin-right: 15px;
-  font-size: 1.5rem;
+  font-size: 1.7rem;
   cursor: pointer;
 }
 
@@ -38,7 +38,7 @@ body {
 
 .note-title:read-only,
 .note-textarea:read-only {
-  color: #757575;
+  color: #c73535;
 }
 
 .list-container .card {
